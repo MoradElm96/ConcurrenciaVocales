@@ -9,7 +9,7 @@
 #include <string.h>
 #include <ctype.h>
 
-static char* nombreFichero = "ficheroPrueba.txt"; //no funciona para lo que quiero hacer, no hacer caso
+static char* nombreFichero = "ficheroPrueba.txt"; 
  
  
 
